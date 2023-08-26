@@ -1,3 +1,2 @@
-CodeClause
-#priojet
+CodeClause Project
 # Basic-Text-Editor
